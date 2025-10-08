@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Enes Battal Ok</h1>
 <p>I am a Junior Software Developer, a graduate of the Computer Programming department, driven by a mission to create meaningful solutions through code. 🚀 I have a strong foundation in desktop application development, am stepping into the mobile world with Flutter, and am beginning to explore the exciting realm of 3D design with Blender. Fueled by a passion for solving complex problems and a curious nature, I am always focused on learning and innovating. </p>
-<p>I take joy in building projects from scratch, leveraging my skills in desktop and mobile technologies to deliver impactful results. As a lifelong learner, exploring new tools and frameworks and pushing boundaries is my passion. When I’m not coding, you’ll find me watching tech-related videos or brainstorming ways to turn ideas into reality. 🌟</p>
+<p>I take joy in building projects from scratch, leveraging my skills in desktop and mobile technologies to deliver impactful results. As a lifelong learner, exploring new tools and frameworks and pushing boundaries is my passion.</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
