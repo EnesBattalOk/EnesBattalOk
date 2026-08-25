@@ -10,9 +10,9 @@
 ###
 
 <p align="left">
- ⚡ I'm currently integrating AI-powered workflows & intelligent agents across cross-platform systems to optimize efficiency
- 🎯 Goals: Architect scalable, AI-driven solutions and build seamless products that redefine user experiences 
- 🤝 Open to collaborate on innovative AI integrations, cross-platform apps, and automation projects
+⚡ <strong>I'm currently working on:</strong> Integrating AI-powered workflows & intelligent agents across cross-platform systems to optimize efficiency.<br/>
+🎯 <strong>Goals:</strong> Architect scalable, AI-driven solutions and build seamless products that redefine user experiences.<br/>
+🤝 <strong>Collaboration:</strong> Open to collaborate on innovative AI integrations, cross-platform apps, and tech-driven partnerships.<br/>
 </p>
 
 
