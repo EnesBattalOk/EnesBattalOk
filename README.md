@@ -10,11 +10,9 @@
 ###
 
 <p align="left">
-  📱 I'm currently working on <strong>Mobile Development</strong> with Flutter<br>
-  🎯 Goals: Master cross-platform development and ship apps used by millions<br>
-  🤝 Looking to collaborate on <strong>open-source Mobile App Projects</strong><br>
-  💬 Ask me about <strong>Flutter, Dart & Mobile Architecture</strong><br>
-  🎲 Fun fact: I debug with coffee ☕ and fix bugs at midnight 🌙
+ ⚡ I'm currently integrating AI-powered workflows & intelligent agents across cross-platform systems to optimize efficiency
+ 🎯 Goals: Architect scalable, AI-driven solutions and build seamless products that redefine user experiences 
+ 🤝 Open to collaborate on innovative AI integrations, cross-platform apps, and automation projects
 </p>
 
 
